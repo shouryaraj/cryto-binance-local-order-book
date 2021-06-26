@@ -1,7 +1,6 @@
 /**
  * Shourya Raj
  * shourayraj1999@gmail.com
- * 
  */
 /**
  * The main function to run the application
