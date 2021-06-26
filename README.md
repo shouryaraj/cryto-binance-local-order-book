@@ -31,7 +31,7 @@ Normal running of application
 node app.js
 ```
 
-**Note:**  User have the option to put the desire value of transaction rate either for buy or sell  
+**Note:**  User have the option to put the desire value of transaction quantity either for buy or sell  
 
 App.js file configuration to change *Currency, time and trade option*
 
